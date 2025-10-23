@@ -38,6 +38,7 @@ class Indexer:
 
     def compress_and_save_index_bin(self):
         """
+        (YOU DON'T NEED TO MODIFY THIS METHOD)
         Saves only the compressed binary index to a file.
 
         File Format:
